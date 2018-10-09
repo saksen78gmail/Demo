@@ -1,0 +1,4 @@
+*.suo
+packages/
+REST/bin/
+REST/obj/
